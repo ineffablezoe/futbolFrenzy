@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\ballReturn.cs" />
+     <Compile Include="Assets\Scripts\goalieController.cs" />
      <Compile Include="Assets\Scripts\llamaController.cs" />
      <Compile Include="Assets\Scripts\scoreTracker.cs" />
  <Reference Include="UnityEngine.UI">
